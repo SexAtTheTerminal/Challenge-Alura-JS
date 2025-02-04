@@ -1,6 +1,6 @@
 # Challenge-Alura-JS!
 
-[image](https://github.com/user-attachments/assets/0e01f1b9-b8b5-4614-a072-bca3f27a16ea)
+![17_23477_604c5df8-cc15-44b8-8aaf-c4fb1681ea7b](https://github.com/user-attachments/assets/16f8f75e-e4d1-4531-8471-d691fd5de658)
 
 .-Descripción del proyecto-.
 • Simplemente es una aplicación donde se ingresan nombres y luego se sortean 😑😑😑.
